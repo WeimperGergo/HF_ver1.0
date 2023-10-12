@@ -1,0 +1,12 @@
+body{
+    background-image: linear-gradient(to right, #52104e, #833aa5, #22155e);
+}
+#nevem{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: red 2px solid;
+    background-image: linear-gradient(#00a8db, #ad0cc2);
+    outline: gray 2px;
+    max-width: 500px;
+    margin: auto;
+}
